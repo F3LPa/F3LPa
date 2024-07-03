@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @F3LPa
-- 👀 I’m not actually interested in anything in special, just trying to test everything I could
-- 🌱 I’m currently learning Python, PHP, Java
-- 💞️ I’m looking to collaborate on my currently Integrating project in the College
-- ✨ Fun Fact: I'm known in my College as Indian, but i'm not Indian
-
-<!---
-F3LPa/F3LPa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Felipe da Silva Pereira, also known as Felpa(@F3LPa)
+- 💻 I love technology since I was very young, this passion follows me until nowadays.
+- 🌱 I’m currently learning Python 🐍, PHP 🐘, Java ☕, I aspire to become a Back-End Dev
+- 💼 I'm searching for my first Trainee Job at the moment, to officialy say "Hello World" to the job markett
+- 🐦 My most important project, my Final Paper (TCC) was Programmed in Flutter and FireBase 🔥
+- 💞️ I’m looking to collaborate on my currently Integrating Project in the College
