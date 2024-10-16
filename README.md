@@ -2,12 +2,12 @@
 
 ###  A Little About Me
 
-👋 Hi, I’m Felipe da Silva Pereira, also known as Felpa(@F3LPa)<br>
-💻 I love technology since I was very young, this passion follows me until nowadays.
-🌱 I’m currently learning Python 🐍, PHP 🐘, Java ☕, I aspire to become a Back-End Dev
-💼 I'm searching for my first Trainee Job at the moment, to officialy say "Hello World" to the job markett
-🐦 My most important project, my Final Paper (TCC) was Programmed in Flutter and FireBase 🔥
-💞️ I’m looking to collaborate on my currently Integrating Project in the College
+👋 Hi, I’m Felipe da Silva Pereira, also known as Felpa(@F3LPa).<br>
+💻 I love technology since I was very young, this passion follows me until nowadays.<br>
+🌱 I’m currently learning Python 🐍, PHP 🐘, Java ☕, I aspire to become a Back-End Dev.<br>
+💼 I'm searching for my first Trainee Job at the moment, to officialy say "Hello World" to the job market.<br>
+🐦 My most important project, my Final Paper (TCC) was Programmed in Flutter and FireBase 🔥.<br>
+💞️ I’m looking to collaborate on my currently Integrating Project in the College.<br>
 
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
