@@ -1,8 +1,8 @@
 # Felipe da Silva Pereira
 
-### A Little About Me
+###  A Little About Me
 
-👋 Hi, I’m Felipe da Silva Pereira, also known as Felpa(@F3LPa)
+👋 Hi, I’m Felipe da Silva Pereira, also known as Felpa(@F3LPa)<br>
 💻 I love technology since I was very young, this passion follows me until nowadays.
 🌱 I’m currently learning Python 🐍, PHP 🐘, Java ☕, I aspire to become a Back-End Dev
 💼 I'm searching for my first Trainee Job at the moment, to officialy say "Hello World" to the job markett
