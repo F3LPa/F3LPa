@@ -9,12 +9,21 @@
 ![image](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+###  Soft Skills
+-Communication;
+-Learning Speed;
+-Leadership;
+-Public Speaking;
+-Resilience;
+-Team Working;
+
+
 ###  A Little About Me
 
 👋 Hi, I’m Felipe da Silva Pereira, also known as Felpa(@F3LPa).<br>
 💻 I love technology since I was very young, this passion follows me until nowadays.<br>
-🌱 I’m currently learning Python 🐍, PHP 🐘, Java ☕, I aspire to become a Back-End Dev.<br>
-💼 I'm searching for my first Trainee Job at the moment, to officialy say "Hello World" to the job market.<br>
+🌱 I’m currently learning Python 🐍 I aspire to become a Back-End Dev.<br>
+💼 I'm searching for my first Intern Job at the moment, to officialy say "Hello World" to the job market.<br>
 📱  My most important project, my Final Paper (TCC) was Programmed in Flutter and FireBase 🔥.<br>
 👥 I’m looking to collaborate on my currently Integrating Project in the College.<br>
 
