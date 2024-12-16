@@ -12,7 +12,6 @@
 ###  Soft Skills
 - Communication;
 - Learning Speed;
-- Leadership;
 - Public Speaking;
 - Resilience;
 - Team Working;
@@ -24,7 +23,7 @@
 - 💻 I love technology since I was very young, this passion follows me until nowadays.<br>
 - 🌱 I’m currently learning Python 🐍 I aspire to become a Back-End Dev.<br>
 - 💼 I'm searching for my first Intern Job at the moment, to officialy say "Hello World" to the job market.<br>
-- 📱  My most important project, my Final Paper (TCC) was Programmed in Flutter and FireBase 🔥.<br>
+- 📱  My most important project, my Final Paper (TCC) was Programmed in Flutter 🐦 and FireBase 🔥.<br>
 - 👥 I’m looking to collaborate on my currently Integrating Project in the College.<br>
 
 ### Contact Me
